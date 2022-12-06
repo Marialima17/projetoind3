@@ -1,0 +1,74 @@
+{
+  "Oficinas": [
+  { "id": 1,
+      "nome": "Auto vision", 
+      "n° de Funcionarios": 8 },
+
+  { "id": 2,
+      "nome": "Gabarito", 
+      "n° de Funcionarios": 12 },   
+
+  { "id": 3,
+      "nome": "Mac 3", 
+      "n° de Funcionarios": 15 },
+  
+  { "id": 4,
+      "nome": "Belair", 
+      "n° de Funcionarios": 22 }
+  ],
+
+  "Chefes": [
+  { "id": 1,
+      "nome": "Agnaldo Gomes", 
+      "idade": 48,
+      "email": "gomes.autovision@gmail.com", 
+      "oficina": "Auto vision"},
+  
+  { "id": 2,
+      "nome": "Maria Lima", 
+      "idade": 26,
+      "email": "marialima.gabarito@gmail.com", 
+      "oficina": "Gabrito"},  
+  
+  { "id": 3,
+      "nome": "Bruno Santos", 
+      "idade": 30,
+      "email": "bruno.mac@gmail.com", 
+      "oficina": "Mac3"},
+      
+  { "id": 4,
+      "nome": "Felipe Nascimento", 
+      "idade": 33,
+      "email": "nascimento.belair@gmail.com", 
+      "oficina": "Belair"}
+  ],
+
+  "Fornecedores":[
+  { "id": 1,
+      "Fornece": "Auto peças", 
+      "1°": "Pastilha",
+      "2°": "Disco",
+      "3°": "correia alternador"
+       },
+
+  { "id": 2,
+      "Fornece": "Distribuidora", 
+      "1°": "oleo"
+  },
+
+  { "id": 3,
+      "Fornece": "Auto peças", 
+      "1°": "parachoque",
+      "2°": "farol"
+  },
+
+  
+  { "id": 4,
+      "Fornece": "Concessionaria", 
+      "1°": "FORD",
+      "2°": "CITROEN",
+      "3°": "CHEVROLET" }
+
+  ]
+
+}
